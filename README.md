@@ -1,4 +1,4 @@
-# Abhishek Kumar's Portfolio
+# Lucas Davis's Portfolio
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/velvettouch1004/Portfolio/blob/main/LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/velvettouch1004/Portfolio.svg)](https://github.com/velvettouch1004/Portfolio/issues)
