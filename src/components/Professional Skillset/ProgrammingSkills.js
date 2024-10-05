@@ -31,7 +31,7 @@ const skillNames = [
   "Redux",
   "TypeScript",
 ];
-const ProgrammingSkills = (props) => {
+const ProgrammingSkills = () => {
   const uiColor = useSelector((state) => state.uiColor);
   const nonThemeColor = useSelector((state) => state.nonThemeColor);
 
