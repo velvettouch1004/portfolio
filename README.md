@@ -7,10 +7,12 @@
 Welcome to my professional portfolio! This repository showcases my skills, projects, and achievements. Feel free to explore the code and projects listed here.
 
 ## Screenshots
-  ![Screenshot](home.png)
-  ![Screenshot](education.png)
-  ![Screenshot](skills.png)
-  ![Screenshot](getInTouch.png)
+
+![Screenshot](home.png)
+![Screenshot](education.png)
+![Screenshot](skills.png)
+![Screenshot](getInTouch.png)
+
 ## Table of Contents
 
 - [Home](#home)
@@ -19,14 +21,13 @@ Welcome to my professional portfolio! This repository showcases my skills, proje
 - [Get In Touch](#getInTouch)
 - [License](#license)
 
-
 ## Contact
 
 Connect with me! Feel free to reach out for collaboration, job opportunities, or just to say hello.
 
 - **Email:** abhi09148299@gmail.com
-- **LinkedIn:** [https://www.linkedin.com/in/abhishek0914/](linkedin-link)
-- **Portfolio:** [https://killer-abhi.github.io/Portfolio/](your-portfolio-link)
+- **LinkedIn:** [https://www.linkedin.com/in/velvettouch1004/](linkedin-link)
+- **Portfolio:** [https://velvettouch1004/Portfolio/](your-portfolio-link)
 
 ## License
 
