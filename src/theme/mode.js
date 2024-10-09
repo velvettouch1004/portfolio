@@ -34,7 +34,7 @@ const Mode = () => {
     if (mode === "dark") {
       handleModeChange(1);
     }
-  }, [mode, fetchSystemMode, handleModeChange]);
+  }, [mode]);
 
   function handleModeChange(index) {
     if (index === 0) {
